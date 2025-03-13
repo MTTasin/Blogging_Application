@@ -1,0 +1,14 @@
+env
+*.db
+app/__pycache__
+*.pyc
+app/migrations
+backend/__pycache__
+app/__pycache__/views.cpython-312.pyc
+app/__pycache__/models.cpython-312.pyc
+backend/__pycache__/settings.cpython-312.pyc
+app/__pycache__/admin.cpython-312.pyc
+app/__pycache__/serializers.cpython-312.pyc
+app/migrations/__pycache__/0001_initial.cpython-312.pyc
+__pycache__/urls.cpython-312.pyc
+db.sqlite3
